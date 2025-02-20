@@ -1,0 +1,48 @@
+
+body{
+    text-align: center;
+    color: cadetblue;
+}
+
+.lol{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.bob{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkcyan;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+p {
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+ol {
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;    
+}
+
+ul {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 810px;
+    text-align: left;
+}
+
+ol {
+    margin-left: 842px;
+    text-align: left;
+}
+
+a:hover{
+text-decoration: none;
+color: pink;
+}
+
